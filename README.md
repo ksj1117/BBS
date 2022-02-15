@@ -1,2 +1,4 @@
 # BBS
 게시판 만들기 
+
+<img src="https://user-images.githubusercontent.com/54517519/153999100-688903f2-4b2e-43a8-bc20-d6beee09775e.png" width="400" height="300">
